@@ -1,3 +1,10 @@
+"""
+LLM for Real-Time Financial Forecasting
+Author: Nikolaos Roufas
+Date: March 22, 2025
+"""
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
